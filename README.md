@@ -1,5 +1,5 @@
 
-## 🖥Skill
+# 🖥Skill
 
 ## 💻Front-end :
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +8,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ## 💻DataBase : ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 프로젝트 참여
+# 프로젝트 참여
 |프로젝트(핵심)|기간|인원|
 |------|---|---|
 |G-CAP (광주 문화예술 여행 안내 웹 서비스)|2024. 03. 05 ~ 04. 05.|5명|
@@ -26,7 +26,7 @@ JSP / JS / Oracle SQL Developer / Python / VSCode / tomcat / apachi / D3.js 등
 참조 무결성과 관련하여 우려되는 부분의 추가 점검과 모니터링.
 ### 프로젝트 요약
 데이터 시각화(대시보드)를 활용하여 문화 사각지대 계층을 포함한 사람들에게 광주의 문화-예술 여행지를 안내해주는 웹 서비스
-### 역량
+## 역량
 작은 오류, 오탈자 하나도 거듭 확인하며 놓치지 않는 꼼꼼함과 스스로가 부족하다면 인정하고 기꺼이 도움을 구하는 융통성, 맡은 일을 끝까지 해내고야 마는 열정과 끈기.
 
 |프로젝트(미니)|기간|인원|
