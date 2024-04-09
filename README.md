@@ -1,5 +1,5 @@
 
-🖥Skill
+## 🖥Skill
 
 ## 💻Front-end :
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +8,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ## 💻DataBase : ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 프로젝트 참여
+## 프로젝트 참여
 |프로젝트(핵심)|기간|인원|
 |------|---|---|
 |G-CAP (광주 문화예술 여행 안내 웹 서비스)|2024. 03. 05 ~ 04. 05.|5명|
@@ -38,7 +38,7 @@ JSP / JS / Oracle SQL Developer / Python / VSCode / tomcat / apachi / D3.js 등
 |MVC 모델 작성|Java|코인 노래방으로 일상생활에 지친 사람들의 피로를 덜어주면서 즐거움을 제공하는 웹 서비스|
 
 
-# 🔔교육사항
+## 🔔교육사항
 ### 
 스마트인재개발원 인공지능 융합서비스 개발자 과정(2023. 12. 29 - 2024. 06. 21) 수강 중
 ### 
@@ -48,6 +48,6 @@ JSP / JS / Oracle SQL Developer / Python / VSCode / tomcat / apachi / D3.js 등
 ### 
 전북대학교 인문대학 졸업
 
-# 📘참고하면 좋은 것들
+## 📘참고하면 좋은 것들
 
 
