@@ -35,7 +35,7 @@ JSP / JS / Oracle SQL Developer / Python / VSCode / tomcat / apachi / D3.js 등
 
 |역할|사용 언어 및 스택|요약|
 |------|---|---|
-|MVC 모델 작성|Java|코인 노래방을 통해 일상생활에 지친 사람들의 피로를 덜어주면서 즐거움을 제공하는 웹|
+|MVC 모델 작성|Java|코인 노래방으로 일상생활에 지친 사람들의 피로를 덜어주면서 즐거움을 제공하는 웹 서비스|
 
 
 # 🔔교육사항
@@ -45,6 +45,8 @@ JSP / JS / Oracle SQL Developer / Python / VSCode / tomcat / apachi / D3.js 등
 정보처리기사 필기 합격
 ### 
 컴퓨터활용능력 1급 
+### 
+전북대학교 인문대학 졸업
 
 # 📘참고하면 좋은 것들
 
