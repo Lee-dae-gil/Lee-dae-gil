@@ -38,14 +38,9 @@
 ## 🔔교육사항
 ### 
 스마트인재개발원 인공지능 융합서비스 개발자 과정(2023. 12. 29 - 2024. 06. 21) 수강 중
-### 
 정보처리기사 필기 합격
-### 
 컴퓨터활용능력 1급 
-### 
 전북대학교 인문대학 졸업
 
 ## 📘참고사항
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dheornjf@naver.com)](https://solved.ac/wke1wke1)
 
