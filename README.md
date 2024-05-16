@@ -46,6 +46,6 @@
 전북대학교 인문대학 졸업
 
 ## 📘참고사항
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheornjf@naver.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dheornjf@naver.com)](https://solved.ac/wke1wke1)
 
