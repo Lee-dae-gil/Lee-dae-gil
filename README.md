@@ -10,8 +10,8 @@
 ## 💻DataBase
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 나의 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+# 이대길의 포트폴리오
+> 협력과 커뮤니케이션으로 창의적인 결과물을 만들어가는 개발자가 되겠습니다.
 
 </br>
 
