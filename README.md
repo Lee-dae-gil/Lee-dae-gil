@@ -10,7 +10,7 @@
 ## 💻DataBase
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 이대길의 포트폴리오
+# 포트폴리오
 > 협력과 커뮤니케이션으로 창의적인 결과물을 만들어가는 개발자가 되겠습니다.
 
 </br>
@@ -27,20 +27,19 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/JungHyung2/gitio.io)
->첫 번째 프로젝트 (팀 프로젝트)  
+### 1. [첫 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+>현대인을 위한 코인 노래 맞추기 (팀 프로젝트)  
 >개발 기간: 2024.01.26 ~ 2024.01.30 
 >  
 >기술 스택:  
->Java / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 (팀 프로젝트)  
+>광주 문화-예술 여행 안내 웹서비스 (팀 프로젝트)  
 >개발 기간: 2024.2.29 ~ 2024.04.04
 >  
 >기술 스택:  
