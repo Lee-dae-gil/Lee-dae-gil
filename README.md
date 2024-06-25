@@ -16,14 +16,13 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+(자기 소개)
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 이메일: dleorlf127@gmail.com
+- 깃허브: https://github.com/Lee-dae-gil
 
 </br>
 
