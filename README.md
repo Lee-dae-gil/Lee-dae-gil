@@ -43,8 +43,8 @@
 >개발 기간: 2024.2.29 ~ 2024.04.04
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring / Spring Boot / HTML / CSS / JS
+>Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
@@ -55,8 +55,8 @@
 >개발 기간: 2024.4.29 ~ 2024.06.20
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Python / Flask / React / HTML / CSS / JSX
+>MySQL
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
@@ -81,16 +81,27 @@
 |역할|사용 언어 및 스택|요약|
 |MVC 모델 작성|Java, Oracle SQL Developer|코인 노래방으로 일상생활에 지친 사람들의 피로를 덜어주면서 즐거움을 제공하는 웹 서비스|
 
-
-## 🔔교육사항
+## 🔔학력 및 교육사항
 ### 
-스마트인재개발원 인공지능 융합서비스 개발자 과정(2023. 12. 29 - 2024. 06. 21) 수강 중
+스마트인재개발원 인공지능 융합서비스 개발자 과정(23. 12. 29 - 24. 06. 21) 수료
 ###
-정보처리기사 필기 합격
+정보처리기사 필기
+###
+SQLD 
 ###
 컴퓨터활용능력 1급 
 ###
-전북대학교 인문대학 졸업
+전북대학교 철학과 졸업
+
+## 🔔자격사항
+###
+정보처리기사 필기
+###
+SQLD 
+###
+컴퓨터활용능력 1급 
+###
+한국사능력검정 1급
 
 ## 📘참고사항
 
