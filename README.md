@@ -26,19 +26,7 @@
 
 </br>
 
-## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->현대인을 위한 코인 노래 맞추기 (팀 프로젝트)  
->개발 기간: 2024.01.26 ~ 2024.01.30 
->  
->기술 스택:  
->Java / Oracle 
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
-
----
-
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >데이터 대시보드를 활용한 광주 문화-예술 여행 안내 웹 (팀 프로젝트)  
 >개발 기간: 2024.2.29 ~ 2024.04.04
 >  
@@ -50,7 +38,7 @@
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >PAR 기반 CCTV 영상 속 인상착의를 통한 실종자 찾기 (팀 프로젝트)  
 >개발 기간: 2024.4.29 ~ 2024.06.20
 >  
