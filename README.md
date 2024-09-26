@@ -16,9 +16,9 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
+</br>
 
 # Project
-</br>
 
 ### 1. 데이터 대시보드를 활용한 광주 문화-예술 여행 안내 웹 (팀 프로젝트)  
 >개발 기간: 2024.02.29 ~ 2024.04.04
