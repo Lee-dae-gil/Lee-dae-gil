@@ -21,23 +21,17 @@
 </br>
 
 ### 1. 데이터 대시보드를 활용한 광주 문화-예술 여행 안내 웹 (팀 프로젝트)  
->개발 기간: 2024.2.29 ~ 2024.04.04
->  
+>개발 기간: 2024.2.29 ~ 2024.04.04  
 >기술 스택:  
->Java / Spring / Spring Boot / HTML / CSS / JS
->Oracle 
->  
+>Java / Spring / Spring Boot / HTML / CSS / JS / Oracle 
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 ---
 
 ### 2. PAR 기반 CCTV 영상 속 인상착의를 통한 실종자 찾기 (팀 프로젝트)  
 >개발 기간: 2024.4.29 ~ 2024.06.20
->  
 >기술 스택:  
->Python / Flask / React / HTML / CSS / JSX
->MySQL
->  
+>Python / Flask / React / HTML / CSS / JSX / MySQL
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
 
 
